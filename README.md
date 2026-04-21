@@ -105,27 +105,3 @@ npm run dev
 * Integrating AI into frontend applications
 * Canvas rendering techniques
 
----
-
-## 🚀 Future Improvements
-
-* Multi-hand tracking
-* Gesture-based UI navigation
-* Save/export drawings
-* Collaborative drawing (WebSocket)
-* Mobile optimization
-
----
-
-## 👩‍💻 Author
-
-**Aisyah Lailia Sari**
-
-* GitHub: https://github.com/aisyahbelajar
-* LinkedIn: https://www.linkedin.com/in/aisyahlailia/
-
----
-
-## ⭐️ Show Your Support
-
-If you like this project, give it a ⭐ on GitHub!
